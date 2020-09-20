@@ -3,6 +3,10 @@
 
 A "dashboard" app that display status of the docker containers (`docker ps -a`)
 
+# Screenshot
+
+![screenshot.png](./screenshot.png)
+
 # Usage
 
 ```bash
